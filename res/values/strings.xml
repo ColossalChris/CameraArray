@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraArray</string>
+    <string name="title_section1">Start Leader</string>
+    <string name="title_section2">Array Member</string>
+    <string name="title_section3">Custom Closer</string>
+    <string name="navigation_drawer_open">Change Role</string>
+    <string name="navigation_drawer_close">Save Role</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
